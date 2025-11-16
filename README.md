@@ -1,4 +1,5 @@
 PIT – Projeto Integrador Transdisciplinar em Engenharia de Software II
+
 📁 Estrutura do projeto
 pit-sistema-clientes/
 │
